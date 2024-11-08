@@ -1,0 +1,10 @@
+<mvc:View
+    controllerName="ui5.crud.controller.App"
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true">
+        <VBox>
+            <Text text="Hello UserDetails page"/>
+            <Button text="Dashboard" press=".dashboard"/>
+        </VBox>
+</mvc:View>
