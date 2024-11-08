@@ -88,7 +88,7 @@
       }
     },
     "resourceRoots": {
-      "": "./"
+      "openui5-routing": "./"
     }
   }
 }
