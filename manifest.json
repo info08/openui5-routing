@@ -1,7 +1,7 @@
 {
   "_version": "1.65.0",
   "sap.app": {
-    "id": "ui5.walkthrough",
+    "id": "ui5.crud",
     "i18n": {
       "bundleUrl": "i18n/i18n.properties",
       "supportedLocales": [
@@ -88,7 +88,7 @@
       }
     },
     "resourceRoots": {
-      "openui5-routing": "./"
+      "view": "./"
     }
   }
 }
