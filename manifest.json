@@ -60,7 +60,7 @@
         "routerClass": "sap.m.routing.Router",
         "type": "View",
         "viewType": "XML",
-        "path": "ui5.crud.view",
+        "path": "ui5/crud/view",
         "controlId": "app",
         "controlAggregation": "pages"
       },
@@ -88,7 +88,7 @@
       }
     },
     "resourceRoots": {
-      "dist": "./"
+      "": "./"
     }
   }
 }
